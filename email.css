@@ -29,6 +29,13 @@ body {
     min-height: 850px;
 }
 
+/*
+.compose-button {
+    border-radius: 15%;
+    outline: auto;
+    outline-style: round;
+}
+*/
 
 .mailbox-name {
     text-align: left;
