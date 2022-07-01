@@ -7,6 +7,10 @@ body {
     min-height: 100vh;
 }
 
+@media (width>992px){
+    search-bar { width: 50%;}
+}
+
 .binds {
     min-height: 40px;
 }
@@ -27,6 +31,7 @@ body {
 .borderr {
     border: 5px solid rgb(207, 207, 203);
     min-height: 850px;
+    margin-top: 80px; 
 }
 
 /*
@@ -167,7 +172,7 @@ body {
 
 .menu-option span {
     color: rgb(155, 160, 158);
-
+    padding: 10px;
 }
 
 .menu-option:hover span{
