@@ -58,7 +58,7 @@ body {
 }
 
 .toolbar input[type="text"] {
-    min-width: 0;
+    min-width: 80%;
 }
 
 .gms-btn {
